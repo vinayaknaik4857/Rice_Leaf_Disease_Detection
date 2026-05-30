@@ -235,4 +235,4 @@ This project is developed for academic and educational purposes.
 
 # 🙏 Acknowledgement
 
-We sincerely thank our guide Mrs. Padmasree N and the Department of CSE, RVITM, for their continuous support and guidance throughout the project.
+We sincerely thank our guide Mrs. Padmasree N and the Department of CSE, RVITM, for their continuous support and guidance throughout the project..
